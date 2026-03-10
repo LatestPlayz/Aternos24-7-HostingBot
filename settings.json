@@ -8,7 +8,7 @@
   "server": {
     "ip": "LatestPlayzSMP.aternos.me",
     "port": 54099,
-    "version": ""
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
